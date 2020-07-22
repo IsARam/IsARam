@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Isabel, currently pursuing my Master's degree in Data Science. In between my unending thirst for knowledge, I love spending all my free time with my husband.
-Find out more about me & feel free to connect with me here:
+<br>Find out more about me here:<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsARam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaram/)](https://www.linkedin.com/in/isaram/)
 
