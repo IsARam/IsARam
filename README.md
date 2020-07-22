@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Isabel, currently pursuing my Master's degree in Data Science. In between my unending thirst for knowledge I love spending all my free time with my husband.
+I am Isabel, currently pursuing my Master's degree in Data Science. In between my unending thirst for knowledge, I love spending all my free time with my husband.
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsARam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaram/)](https://www.linkedin.com/in/isaram/)
 
-##Technologies I am currently learning:
+## Technologies I am currently learning:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
